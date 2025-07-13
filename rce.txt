@@ -1,3 +1,7 @@
 <?php
+  echo "HOSTNAME"
   system('hostname');
+  echo ""
+  echo "LS -LA"
+  system('ls -la');
 ?>
